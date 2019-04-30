@@ -1,5 +1,5 @@
-hello: main.o
-	gcc -o hello main.c
+Clog: main.o
+	gcc -o Clog main.c
 
 clean:
-	rm *.o hello
+	rm *.o Clog
