@@ -3,10 +3,10 @@ c语言实现的log日志记录工具
 
 
 执行实例：
-hh@hh-PC:~/Desktop/code/test$ ./hello 
 
-[2019-4-30 22:5:0]init log compelte.(538510593 0x20190501)
+hh@hh-PC:~/Desktop/code/test$ ./Clog
 
+[2019-4-30 22:5:0]init log compelte.(0x20190501)
 
 
 接口API:
